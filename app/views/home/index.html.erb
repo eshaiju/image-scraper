@@ -1,0 +1,18 @@
+
+<%= form_tag(scrap_path,{:method=>"post", remote: true ,:class =>'scraper'}) do %>
+  <input type="url" class="focus" placeholder="" name="site_url" >
+  <input type="submit" class="btn_submit">
+<% end %>
+
+
+<div class = 'title'></div>
+<div class = 'imagecount'></div>
+<div class="container">
+  <ul class="bxslider" id="slides">
+
+</ul>
+</div>
+
+
+
+

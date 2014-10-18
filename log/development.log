@@ -1,0 +1,1279 @@
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-18 22:06:09 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (4.0ms)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("blank.gif") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("camera-loader.gif") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("camera_skins.png") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("camera_skins.png") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("camera_skins.png") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("camera_skins.png") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("camera_skins.png") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("camera_skins.png") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("patterns/overlay1.png") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("overlay2.png") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("overlay3.png") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("overlay4.png") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("overlay5.png") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("overlay6.png") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("overlay7.png") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("overlay8.png") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+DEPRECATION WARNING: asset_url with two arguments is deprecated. Use asset_url("overlay9.png") instead. (called from render at /usr/lib/ruby/vendor_ruby/tilt/template.rb:103)
+Completed 200 OK in 1865ms (Views: 1836.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/camera.css?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/camera.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/jquery-1.7.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/plugins/jquery.fitvids.js?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/plugins/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/example.css?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/scrapper.css?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/assets/scrapper.js?body=1" for 127.0.0.1 at 2014-10-18 22:06:12 +0530
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-18 22:07:21 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 391ms (Views: 390.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/camera.css?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/example.css?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/scrapper.css?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/camera.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/jquery-1.7.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/plugins/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/plugins/jquery.fitvids.js?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/scrapper.js?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-18 22:07:22 +0530
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=http%3A%2F%2Fcybosol.com" for 127.0.0.1 at 2014-10-18 22:07:25 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>"http://cybosol.com"}
+Completed 200 OK in 6173ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/images/bx_loader.gif" for 127.0.0.1 at 2014-10-18 22:07:31 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/images/bx_loader.gif"):
+  actionpack (4.1.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.5) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.5) lib/rails/engine.rb:514:in `call'
+  railties (4.1.5) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /usr/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /usr/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /usr/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.3ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.5ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (53.7ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (88.7ms)
+
+
+Started GET "/assets/images/controls.png" for 127.0.0.1 at 2014-10-18 22:07:31 +0530
+
+ActionController::RoutingError (No route matches [GET] "/assets/images/controls.png"):
+  actionpack (4.1.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.5) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.5) lib/rails/engine.rb:514:in `call'
+  railties (4.1.5) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /usr/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /usr/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /usr/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.7ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (15.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 94ms (Views: 92.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/camera.css?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/example.css?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/scrapper.css?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/camera.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/jquery-1.7.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/plugins/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/plugins/jquery.fitvids.js?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/scrapper.js?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-18 22:09:30 +0530
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=" for 127.0.0.1 at 2014-10-18 22:09:33 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>""}
+Completed 500 Internal Server Error in 0ms
+
+Errno::ENOENT (No such file or directory - ):
+  app/controllers/scrapper_controller.rb:8:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.4ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.4ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.7ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (11.6ms)
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=" for 127.0.0.1 at 2014-10-18 22:09:33 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>""}
+Completed 500 Internal Server Error in 2ms
+
+Errno::ENOENT (No such file or directory - ):
+  app/controllers/scrapper_controller.rb:8:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.5ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.6ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (11.1ms)
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=" for 127.0.0.1 at 2014-10-18 22:09:37 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>""}
+Completed 500 Internal Server Error in 1ms
+
+Errno::ENOENT (No such file or directory - ):
+  app/controllers/scrapper_controller.rb:8:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.6ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.8ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (12.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 127ms (Views: 126.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/camera.css?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/example.css?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/scrapper.css?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/camera.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/jquery-1.7.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/plugins/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/scrapper.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/plugins/jquery.fitvids.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:04 +0530
+
+
+Started GET "/scrap?utf8=%E2%9C%93&authenticity_token=%2Bpks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI%3D&site_url=" for 127.0.0.1 at 2014-10-18 22:10:05 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+pks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI=", "site_url"=>""}
+Completed 500 Internal Server Error in 1ms
+
+Errno::ENOENT (No such file or directory - ):
+  app/controllers/scrapper_controller.rb:8:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.6ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.6ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (1.0ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (13.4ms)
+
+
+Started GET "/scrap?utf8=%E2%9C%93&authenticity_token=%2Bpks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI%3D&site_url=" for 127.0.0.1 at 2014-10-18 22:10:06 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+pks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI=", "site_url"=>""}
+Completed 500 Internal Server Error in 1ms
+
+Errno::ENOENT (No such file or directory - ):
+  app/controllers/scrapper_controller.rb:8:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.6ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.7ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (13.0ms)
+
+
+Started GET "/scrap?utf8=%E2%9C%93&authenticity_token=%2Bpks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI%3D&site_url=" for 127.0.0.1 at 2014-10-18 22:10:07 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+pks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI=", "site_url"=>""}
+Completed 500 Internal Server Error in 1ms
+
+Errno::ENOENT (No such file or directory - ):
+  app/controllers/scrapper_controller.rb:8:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.1ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.5ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.6ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (13.1ms)
+
+
+Started GET "/scrap?utf8=%E2%9C%93&authenticity_token=%2Bpks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI%3D&site_url=" for 127.0.0.1 at 2014-10-18 22:10:07 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+pks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI=", "site_url"=>""}
+Completed 500 Internal Server Error in 1ms
+
+Errno::ENOENT (No such file or directory - ):
+  app/controllers/scrapper_controller.rb:8:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.5ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.6ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (12.7ms)
+
+
+Started GET "/scrap?utf8=%E2%9C%93&authenticity_token=%2Bpks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI%3D&site_url=" for 127.0.0.1 at 2014-10-18 22:10:07 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+pks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI=", "site_url"=>""}
+Completed 500 Internal Server Error in 1ms
+
+Errno::ENOENT (No such file or directory - ):
+  app/controllers/scrapper_controller.rb:8:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.6ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.9ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.6ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (12.6ms)
+
+
+Started GET "/scrap?utf8=%E2%9C%93&authenticity_token=%2Bpks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI%3D&site_url=" for 127.0.0.1 at 2014-10-18 22:10:07 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+pks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI=", "site_url"=>""}
+Completed 500 Internal Server Error in 1ms
+
+Errno::ENOENT (No such file or directory - ):
+  app/controllers/scrapper_controller.rb:8:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.6ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (1.2ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (1.2ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (16.8ms)
+
+
+Started GET "/scrap?utf8=%E2%9C%93&authenticity_token=%2Bpks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI%3D&site_url=" for 127.0.0.1 at 2014-10-18 22:10:08 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+pks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI=", "site_url"=>""}
+Completed 500 Internal Server Error in 1ms
+
+Errno::ENOENT (No such file or directory - ):
+  app/controllers/scrapper_controller.rb:8:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.8ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (1.3ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.8ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (15.3ms)
+
+
+Started GET "/scrap?utf8=%E2%9C%93&authenticity_token=%2Bpks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI%3D&site_url=" for 127.0.0.1 at 2014-10-18 22:10:08 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+pks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI=", "site_url"=>""}
+Completed 500 Internal Server Error in 1ms
+
+Errno::ENOENT (No such file or directory - ):
+  app/controllers/scrapper_controller.rb:8:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (1.9ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.8ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (13.8ms)
+
+
+Started GET "/scrap?utf8=%E2%9C%93&authenticity_token=%2Bpks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI%3D&site_url=" for 127.0.0.1 at 2014-10-18 22:10:08 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"+pks8A9XVgbLKt0yH9kXuwPAOwd0yedcJHCojw8FdYI=", "site_url"=>""}
+Completed 500 Internal Server Error in 1ms
+
+Errno::ENOENT (No such file or directory - ):
+  app/controllers/scrapper_controller.rb:8:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.8ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.8ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (12.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-18 22:10:50 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 141ms (Views: 138.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/camera.css?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/scrapper.css?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/example.css?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/camera.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/jquery-1.7.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/plugins/jquery.fitvids.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/plugins/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/scrapper.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-18 22:10:51 +0530
+  [1m[36m (76.8ms)[0m  [1mCREATE TABLE `schema_migrations` (`version` varchar(255) NOT NULL) ENGINE=InnoDB[0m
+  [1m[35m (209.6ms)[0m  CREATE UNIQUE INDEX `unique_schema_migrations`  ON `schema_migrations` (`version`) 
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT `schema_migrations`.* FROM `schema_migrations`[0m
+Migrating to CreateStores (20141018164246)
+  [1m[35m (86.4ms)[0m  CREATE TABLE `stores` (`id` int(11) auto_increment PRIMARY KEY, `url` varchar(255), `count` int(11) DEFAULT 1, `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (1.2ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20141018164246')
+  [1m[36m (43.7ms)[0m  [1mCOMMIT[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT `schema_migrations`.* FROM `schema_migrations`
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-18 22:21:37 +0530
+
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+	bin/rake db:migrate RAILS_ENV=development
+
+):
+  activerecord (4.1.5) lib/active_record/migration.rb:389:in `check_pending!'
+  activerecord (4.1.5) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.5) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.5) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.5) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.5) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.5) lib/rails/engine.rb:514:in `call'
+  railties (4.1.5) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /usr/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /usr/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /usr/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.4ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (0.9ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-18 22:21:48 +0530
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT `schema_migrations`.* FROM `schema_migrations`[0m
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 212ms (Views: 200.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/camera.css?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/example.css?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/scrapper.css?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/camera.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/jquery-1.7.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/plugins/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/scrapper.js?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/assets/plugins/jquery.fitvids.js?body=1" for 127.0.0.1 at 2014-10-18 22:21:49 +0530
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=cybosol.com" for 127.0.0.1 at 2014-10-18 22:22:12 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>"cybosol.com"}
+Completed 500 Internal Server Error in 1ms
+
+Errno::ENOENT (No such file or directory - cybosol.com):
+  app/controllers/scrapper_controller.rb:8:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.9ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.5ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.8ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (38.4ms)
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=http%3A%2F%2Fcybosol.com" for 127.0.0.1 at 2014-10-18 22:22:30 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>"http://cybosol.com"}
+Completed 500 Internal Server Error in 10341ms
+
+NoMethodError (undefined method `save_data' for #<Class:0x00000002e8a3f8>):
+  app/controllers/scrapper_controller.rb:9:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.4ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.5ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.7ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (11.2ms)
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=http%3A%2F%2Fcybosol.com" for 127.0.0.1 at 2014-10-18 22:22:43 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>"http://cybosol.com"}
+Completed 500 Internal Server Error in 8993ms
+
+NoMethodError (undefined method `save_data' for #<Class:0x00000002e8a3f8>):
+  app/controllers/scrapper_controller.rb:9:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.7ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.6ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (12.7ms)
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=http%3A%2F%2Fcybosol.com" for 127.0.0.1 at 2014-10-18 22:23:05 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>"http://cybosol.com"}
+Completed 500 Internal Server Error in 6203ms
+
+NameError (uninitialized constant Store::Self):
+  app/models/store.rb:2:in `<class:Store>'
+  app/models/store.rb:1:in `<top (required)>'
+  app/controllers/scrapper_controller.rb:9:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.6ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.9ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.6ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (12.5ms)
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=http%3A%2F%2Fcybosol.com" for 127.0.0.1 at 2014-10-18 22:23:36 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>"http://cybosol.com"}
+  [1m[35mStore Load (0.6ms)[0m  SELECT  `stores`.* FROM `stores`  WHERE `stores`.`url` = 'http://cybosol.com' LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO `stores` (`created_at`, `updated_at`, `url`) VALUES ('2014-10-18 16:53:40', '2014-10-18 16:53:40', 'http://cybosol.com')
+  [1m[36m (36.8ms)[0m  [1mCOMMIT[0m
+Completed 200 OK in 4464ms (Views: 0.2ms | ActiveRecord: 38.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-18 22:28:40 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 239ms (Views: 238.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/camera.css?body=1" for 127.0.0.1 at 2014-10-18 22:28:40 +0530
+
+
+Started GET "/assets/example.css?body=1" for 127.0.0.1 at 2014-10-18 22:28:40 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-18 22:28:40 +0530
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-10-18 22:28:40 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-18 22:28:40 +0530
+
+
+Started GET "/assets/scrapper.css?body=1" for 127.0.0.1 at 2014-10-18 22:28:40 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-18 22:28:40 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-18 22:28:40 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-18 22:28:40 +0530
+
+
+Started GET "/assets/camera.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:28:40 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-18 22:28:40 +0530
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:28:40 +0530
+
+
+Started GET "/assets/jquery-1.7.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:28:40 +0530
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:28:41 +0530
+
+
+Started GET "/assets/plugins/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:28:41 +0530
+
+
+Started GET "/assets/plugins/jquery.fitvids.js?body=1" for 127.0.0.1 at 2014-10-18 22:28:41 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-18 22:28:41 +0530
+
+
+Started GET "/assets/scrapper.js?body=1" for 127.0.0.1 at 2014-10-18 22:28:41 +0530
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=http%3A%2F%2Fcybosol.com" for 127.0.0.1 at 2014-10-18 22:28:45 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>"http://cybosol.com"}
+  [1m[35mStore Load (0.2ms)[0m  SELECT  `stores`.* FROM `stores`  WHERE `stores`.`url` = 'http://cybosol.com' LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  UPDATE `stores` SET `count` = 2, `updated_at` = '2014-10-18 16:58:51' WHERE `stores`.`id` = 1
+  [1m[36m (85.7ms)[0m  [1mCOMMIT[0m
+Completed 500 Internal Server Error in 6045ms
+
+NameError (undefined local variable or method `images' for #<ScrapperController:0x0000000360d710>):
+  app/controllers/scrapper_controller.rb:17:in `scrap'
+
+
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_trace.text.erb (0.4ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.text.erb (0.6ms)
+  Rendered /var/lib/gems/1.9.1/gems/actionpack-4.1.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb (12.1ms)
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=http%3A%2F%2Fcybosol.com" for 127.0.0.1 at 2014-10-18 22:29:11 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>"http://cybosol.com"}
+  [1m[35mStore Load (0.3ms)[0m  SELECT  `stores`.* FROM `stores`  WHERE `stores`.`url` = 'http://cybosol.com' LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  UPDATE `stores` SET `count` = 3, `updated_at` = '2014-10-18 16:59:17' WHERE `stores`.`id` = 1
+  [1m[36m (68.1ms)[0m  [1mCOMMIT[0m
+Completed 200 OK in 6601ms (Views: 0.2ms | ActiveRecord: 69.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-18 22:29:57 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 256ms (Views: 255.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/camera.css?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/example.css?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/scrapper.css?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/camera.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/jquery-1.7.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/plugins/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/plugins/jquery.fitvids.js?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/scrapper.js?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-18 22:29:58 +0530
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=http%3A%2F%2Fcybosol.com" for 127.0.0.1 at 2014-10-18 22:30:03 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>"http://cybosol.com"}
+  [1m[35mStore Load (0.3ms)[0m  SELECT  `stores`.* FROM `stores`  WHERE `stores`.`url` = 'http://cybosol.com' LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE `stores` SET `count` = 4, `updated_at` = '2014-10-18 17:00:15' WHERE `stores`.`id` = 1
+  [1m[36m (68.6ms)[0m  [1mCOMMIT[0m
+Completed 200 OK in 11553ms (Views: 0.2ms | ActiveRecord: 69.2ms)
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=http%3A%2F%2Fcybosol.com" for 127.0.0.1 at 2014-10-18 22:30:44 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>"http://cybosol.com"}
+  [1m[35mStore Load (0.5ms)[0m  SELECT  `stores`.* FROM `stores`  WHERE `stores`.`url` = 'http://cybosol.com' LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  UPDATE `stores` SET `count` = 5, `updated_at` = '2014-10-18 17:00:51' WHERE `stores`.`id` = 1
+  [1m[36m (126.7ms)[0m  [1mCOMMIT[0m
+Completed 200 OK in 7273ms (Views: 0.3ms | ActiveRecord: 128.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-18 22:31:26 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 328ms (Views: 327.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/camera.css?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/example.css?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/scrapper.css?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/jquery-1.7.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/camera.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/plugins/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/plugins/jquery.fitvids.js?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/scrapper.js?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-18 22:31:27 +0530
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=http%3A%2F%2Fcybosol.com" for 127.0.0.1 at 2014-10-18 22:31:30 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>"http://cybosol.com"}
+  [1m[35mStore Load (0.3ms)[0m  SELECT  `stores`.* FROM `stores`  WHERE `stores`.`url` = 'http://cybosol.com' LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE `stores` SET `count` = 6, `updated_at` = '2014-10-18 17:01:37' WHERE `stores`.`id` = 1
+  [1m[36m (118.1ms)[0m  [1mCOMMIT[0m
+Completed 200 OK in 7453ms (Views: 0.2ms | ActiveRecord: 118.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 121ms (Views: 119.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/camera.css?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/example.css?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/scrapper.css?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/camera.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/jquery-1.7.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/plugins/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/scrapper.js?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/plugins/jquery.fitvids.js?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-18 22:32:44 +0530
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=http%3A%2F%2Fcybosol.com" for 127.0.0.1 at 2014-10-18 22:33:03 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>"http://cybosol.com"}
+  [1m[35mStore Load (0.3ms)[0m  SELECT  `stores`.* FROM `stores`  WHERE `stores`.`url` = 'http://cybosol.com' LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.2ms)[0m  UPDATE `stores` SET `count` = 7, `updated_at` = '2014-10-18 17:03:08' WHERE `stores`.`id` = 1
+  [1m[36m (63.9ms)[0m  [1mCOMMIT[0m
+Completed 200 OK in 5257ms (Views: 0.2ms | ActiveRecord: 64.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 352ms (Views: 351.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/camera.css?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/scrapper.css?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/example.css?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/camera.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/plugins/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/jquery-1.7.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/plugins/jquery.fitvids.js?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/scrapper.js?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-18 22:34:45 +0530
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=http%3A%2F%2Fcybosol.com" for 127.0.0.1 at 2014-10-18 22:34:52 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>"http://cybosol.com"}
+  [1m[35mStore Load (0.3ms)[0m  SELECT  `stores`.* FROM `stores`  WHERE `stores`.`url` = 'http://cybosol.com' LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  UPDATE `stores` SET `count` = 8, `updated_at` = '2014-10-18 17:05:03' WHERE `stores`.`id` = 1
+  [1m[36m (51.6ms)[0m  [1mCOMMIT[0m
+Completed 200 OK in 11149ms (Views: 0.3ms | ActiveRecord: 52.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-18 22:35:54 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 302ms (Views: 300.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/camera.css?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/example.css?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/scrapper.css?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/camera.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/jquery-1.7.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/plugins/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/plugins/jquery.fitvids.js?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/scrapper.js?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-18 22:35:55 +0530
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=http%3A%2F%2Fcybosol.com" for 127.0.0.1 at 2014-10-18 22:35:59 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>"http://cybosol.com"}
+  [1m[35mStore Load (0.5ms)[0m  SELECT  `stores`.* FROM `stores`  WHERE `stores`.`url` = 'http://cybosol.com' LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  UPDATE `stores` SET `count` = 9, `updated_at` = '2014-10-18 17:06:04' WHERE `stores`.`id` = 1
+  [1m[36m (145.4ms)[0m  [1mCOMMIT[0m
+Completed 200 OK in 5352ms (Views: 0.1ms | ActiveRecord: 146.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 363ms (Views: 362.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/camera.css?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/example.css?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/scrapper.css?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/camera.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/jquery-1.7.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/plugins/jquery.easing.1.3.js?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/plugins/jquery.fitvids.js?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/scrapper.js?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-10-18 22:37:32 +0530
+
+
+Started GET "/scrap?utf8=%E2%9C%93&site_url=http%3A%2F%2Fcybosol.com" for 127.0.0.1 at 2014-10-18 22:37:37 +0530
+Processing by ScrapperController#scrap as JSON
+  Parameters: {"utf8"=>"✓", "site_url"=>"http://cybosol.com"}
+  [1m[35mStore Load (0.6ms)[0m  SELECT  `stores`.* FROM `stores`  WHERE `stores`.`url` = 'http://cybosol.com' LIMIT 1
+  [1m[36m (0.3ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  UPDATE `stores` SET `count` = 10, `updated_at` = '2014-10-18 17:07:46' WHERE `stores`.`id` = 1
+  [1m[36m (145.1ms)[0m  [1mCOMMIT[0m
+Completed 200 OK in 8715ms (Views: 0.2ms | ActiveRecord: 146.5ms)
